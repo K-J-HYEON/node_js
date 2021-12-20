@@ -1,1 +1,1 @@
-const value = require()
+  
